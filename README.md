@@ -52,8 +52,4 @@ If you'd like to contribute to this project:
 - Make improvements or add features.
 - Submit a pull request.
 
-### License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
-
 Enjoy exploring personalities with the Personality Analyzer!
